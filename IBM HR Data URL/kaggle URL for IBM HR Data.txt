@@ -1,1 +1,7 @@
+**link to Data on Kaggle.com**
+
+This file contains a link to the original data set at Kaggle.com. End user agreements with Kaggle prevent the posting of the contents of the data set here. 
+
+The URL is:
+
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
