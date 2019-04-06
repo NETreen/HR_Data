@@ -6,7 +6,7 @@ Why are company employees leaving?
 Fictional Kaggle data from a company was examined to try to answer the question of why employees are leaving this company early. Determining this information might help predict who might leave, allowing the company to intervene and encourage staff to stay.   This project focussed on the sales department to try and identify trends related to attrition.
  
 **The Insights:**
-The data set includes such information as… age, gender, company travel time, level of education..?? The data that was the focus of this project was fairly narrow. Specifically, we examined the sales department, and examined income and attrition rates to see if there is a correlation.
+The data set includes such information as age, gender, job role, montly income, and number of years at the company. The data that was the focus of this project was fairly narrow. Specifically, we examined the sales department, and examined income and attrition rates to see if there is a correlation.
  
 I examined Employee attrition vs age, gender and monthly income for the sales department. From my visualization, it would appear that there is a correlation between lower employee monthly incomes and higher attrition rates. From our data, it appears that very few employees leave when monthly incomes are $15000 or more. It would be interesting to compare this data to another similar company to see if the results are similar.
  
