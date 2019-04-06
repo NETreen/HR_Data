@@ -1,7 +1,7 @@
 ## HR_Data
 This is an analysis of IBM HR Analytics Employee Attrition and Performance Data
 
-**The Problem:
+**The Problem:**
 Why are company employees leaving?
 Fictional Kaggle data from a company was examined to try to answer the question of why employees are leaving this company early. Determining this information might help predict who might leave, allowing the company to intervene and encourage staff to stay.   This project focussed on the sales department to try and identify trends related to attrition.
  
